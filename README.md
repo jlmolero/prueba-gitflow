@@ -10,6 +10,7 @@ Este Repositorio tiene el fin de explicar y practicar como funcionaria en la vid
 ## Contenido
 
 * [Configuraciones en github](/confi_github.md)
+* [Plugin necesario](/plugins_github.md)
 
 
 
